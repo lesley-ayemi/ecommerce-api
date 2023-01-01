@@ -59,7 +59,7 @@ THIRD_PARTY_APPS = [
 START_APPS = [
     'accounts',
     'cart',
-    'store'
+    'store',
 ]
 
 #merging everything together
